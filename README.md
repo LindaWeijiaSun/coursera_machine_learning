@@ -1,6 +1,7 @@
 # Coursera Machine Learning Course Taught by Andrew Ng - Assignment Solutions
 
 Here are my solutions for the above course.
+
 Assignment list:
 - Assignment #1: Linear Regression
 - Assignment #2: Logistic Regression
