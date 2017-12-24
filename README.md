@@ -11,3 +11,5 @@ Assignment list:
 - Assignment #6: Support Vector Machines
 - Assignment #7: K-means Clustering and Principal Component Analysis
 - Assignment #8: Anomaly Detection and Recommender Systems
+
+I also attached the notes I made for this course, which attempts to integrate all important knowledges into a single PDF file.
